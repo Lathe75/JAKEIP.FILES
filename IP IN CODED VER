@@ -1,0 +1,122 @@
+{
+    "ip": "102.219.24.157",
+    "country_code": "ZA",
+    "country_name": "South Africa",
+    "region_name": "Northern Cape",
+    "district": "Frances Baard District Municipality",
+    "city_name": "Kimberley",
+    "latitude": -28.73226,
+    "longitude": 24.76232,
+    "zip_code": "8745",
+    "time_zone": "+02:00",
+    "asn": "11845",
+    "as": "Vox Telecom Ltd",
+    "as_info": {
+        "as_number": "11845",
+        "as_name": "Vox Telecom Ltd",
+        "as_domain": "voxtelecom.co.za",
+        "as_usage_type": "ISP",
+        "as_cidr": "102.219.24.0\/24"
+    },
+    "isp": "Vox Telecom Ltd",
+    "domain": "voxtelecom.co.za",
+    "net_speed": "DSL",
+    "idd_code": "27",
+    "area_code": "053",
+    "weather_station_code": "SFXX0028",
+    "weather_station_name": "Kimberley",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 1217,
+    "usage_type": "ISP",
+    "address_type": "Unicast",
+    "ads_category": "IAB19-18",
+    "ads_category_name": "Internet Technology",
+    "continent": {
+        "name": "Africa",
+        "code": "AF",
+        "hemisphere": [
+            "south",
+            "east"
+        ],
+        "translation": {
+            "lang": null,
+            "value": null
+        }
+    },
+    "country": {
+        "name": "South Africa",
+        "alpha3_code": "ZAF",
+        "numeric_code": 710,
+        "demonym": "South Africans",
+        "flag": "https:\/\/cdn.ip2location.io\/assets\/img\/flags\/za.png",
+        "capital": "Cape Town",
+        "total_area": 1219090,
+        "population": 59795503,
+        "currency": {
+            "code": "ZAR",
+            "name": "South African Rand",
+            "symbol": "R"
+        },
+        "language": {
+            "code": "AF",
+            "name": "Afrikaans"
+        },
+        "tld": "za",
+        "translation": {
+            "lang": null,
+            "value": null
+        }
+    },
+    "region": {
+        "name": "Northern Cape",
+        "code": "ZA-NC",
+        "translation": {
+            "lang": null,
+            "value": null
+        }
+    },
+    "city": {
+        "name": "Kimberley",
+        "translation": {
+            "lang": null,
+            "value": null
+        }
+    },
+    "time_zone_info": {
+        "olson": "Africa\/Johannesburg",
+        "current_time": "2025-11-06T16:43:53+02:00",
+        "gmt_offset": 7200,
+        "is_dst": false,
+        "abbreviation": "SAST",
+        "dst_start_date": null,
+        "dst_end_date": null,
+        "sunrise": "05:22",
+        "sunset": "18:46"
+    },
+    "geotargeting": {
+        "metro": null
+    },
+    "is_proxy": true,
+    "fraud_score": 48,
+    "proxy": {
+        "last_seen": 13,
+        "proxy_type": "RES",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": false,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_residential_proxy": true,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false,
+        "is_bogon": false
+    }
+}
